@@ -57,5 +57,10 @@
   },
   "engines": {
     "node": ">=20.18.3"
+  },
+  "dependencies": {
+    "@types/node": "^22.15.29",
+    "@types/react": "^19.1.6",
+    "wagmi": "^2.15.4"
   }
 }
